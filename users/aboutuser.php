@@ -8,6 +8,7 @@
     <title>About user</title>
 </head>
 <body>
+    <h1>About user</h1>
     <div class="info">
         <?php
             $sql = new mysqli("localhost", "admin", "admin", "my_db");
