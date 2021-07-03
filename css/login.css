@@ -1,0 +1,26 @@
+body{
+    background-color: #e3c40c;
+}
+.log_in_form{
+    margin-top: 15%;
+    margin-left: 40%;
+}
+.log_H1{
+    margin-left: 5%;
+    margin-bottom: 3.4%;
+    font-style: italic;
+}
+.username{
+    margin-bottom: 2.3%;
+    padding: 1% 2%;
+}
+.password{
+    padding: 1% 2%;
+}
+.send_button{
+    margin-top: 3%;
+    margin-left: 8.3%;
+    padding: 1% 2%;
+    color: #0b0613;
+    background-color: floralwhite;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: #93c6c6;
+}
+.reg_form{
+    margin-top: 13%;
+    margin-left: 39%;
+}
+.reg_H1{
+    font-style: italic;
+}
+.username{
+    margin-bottom: 2%;
+    margin-left: 3.7%;
+}
+.email{
+    margin-bottom: 2%;
+    margin-left: 3.7%;
+}
+.password{
+    margin-left: 3.7%;
+}
+.send_button{
+    margin-top: 3%;
+    margin-left: 9.7%;
+    padding: 1% 2%;
+    color: #0b0613;
+    background-color: floralwhite;
+}
