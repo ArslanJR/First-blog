@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-        <form class="log_in_form" action="" method="post">
+        <form class="log_in_form" action="login2.php" method="post">
             <h1 class="log_H1">Log in</h1>
             <input class="username" type="text" name="username" placeholder="Enter username or email">
             <br><input class="password" type="password" name="password" placeholder="Enter password">

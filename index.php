@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" href="https://i.pinimg.com/originals/13/c1/68/13c1681b80b324f4e56013240c8556cc.jpg"/>
     <link rel="stylesheet" href="css\index.css">
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">-->
     <title>Blog</title>
 </head>
 <body>
